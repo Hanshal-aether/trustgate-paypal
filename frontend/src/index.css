@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.font-data {
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+}
