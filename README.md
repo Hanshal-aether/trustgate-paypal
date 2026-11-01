@@ -74,7 +74,7 @@ retention policy and privacy review.
 
 ## AI assistance disclosure
 
-This project was built with the help of Claude (Anthropic) as a coding and design assistant, directed and reviewed by the author.
+This project was built with the help of Claude as a coding assistant, designed , directed and reviewed by the author.
 
 ## License and credits
 
